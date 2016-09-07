@@ -9,3 +9,29 @@
 	border-radius: 10px;
 		
 }
+.left-block  {
+	width: 250px;
+	padding: 10px;
+	margin: 10px;
+	border: black 3px solid;
+	background: moccasin;
+	float: left;
+	margin-left:5px;
+	border-radius: 10px;
+	margin-left: 0px;
+	height: 400px;
+		
+}
+.right-block  {
+	width: 250px;
+	padding: 10px;
+	margin: 10px;
+	border: black 3px solid;
+	background: moccasin;
+	float: right;
+	margin-left:5px;
+	border-radius: 10px;
+	margin-left: 0px;
+	height: 400px;
+		
+}
