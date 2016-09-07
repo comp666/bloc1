@@ -1,5 +1,5 @@
 .head-block  {
-	width: 1370px;
+	width: 1350px;
 	padding: 100px;
 	margin: 10px;
 	border: black 4px solid;
@@ -33,5 +33,29 @@
 	border-radius: 10px;
 	margin-left: 0px;
 	height: 400px;
+		
+}
+.center-block  {
+	width: 935px;
+	padding: 10px;
+	margin: 10px;
+	border: black 3px solid;
+	background: moccasin;
+	float: center;
+	margin-left:5px;
+	border-radius: 50px;
+	margin-left: 300px;
+	height: 400px;
+		
+}
+.bottom-block  {
+	width: 1350px;
+	padding: 100px;
+	margin: 30px;
+	border: black 4px solid;
+	background: moccasin;
+	float: bottom;
+	margin-left:5px;
+	border-radius: 10px;
 		
 }
